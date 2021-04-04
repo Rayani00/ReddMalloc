@@ -1,0 +1,11 @@
+# Ceci est un commentaire
+initMemory(200)
+malloc(4)
+malloc(6)
+malloc(6)
+free(0)
+free(1)
+malloc(4)
+free(1)
+deinitMemory()
+# 
